@@ -1,0 +1,344 @@
+﻿UF,ano,,"significa uma faixa de valores. varia em função da tabela (se for o caso).
+ex: o nível de precisão da produção estimada de combustíveis está na faixa a (95 a 100%)",significado,mulheres_superior_completo,mulheres_25_mais,"valor inibido para não identificar o informante.
+ex: determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido.","valor não disponível.
+ex: a produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa.","valor não se aplica.
+ex: não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas.","zero absoluto, não resultante de um cálculo ou arredondamento.
+ex: em determinado município não existem pessoas de 14 anos de idade sem instrução.","zero resultante de um cálculo ou arredondamento.
+ex: a inflação do feijão em determinada região metropolitana foi 0.
+determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas.",percentual_mulheres_superior_completo
+,2016,,,,,,,,,,,
+,2017,,,,,,,,,,,
+,2018,,,,,,,,,,,
+,2019,,,,,,,,,,,
+,2022,,,,,,,,,,,
+,2023,,,,,,,,,,,
+,2024,,,,,,,,,,,
+,2025,,,,,,,,,,,
+-,2016,,,,,,,,,,,
+-,2017,,,,,,,,,,,
+-,2018,,,,,,,,,,,
+-,2019,,,,,,,,,,,
+-,2022,,,,,,,,,,,
+-,2023,,,,,,,,,,,
+-,2024,,,,,,,,,,,
+-,2025,,,,,,,,,,,
+..,2016,,,,,,,,,,,
+..,2017,,,,,,,,,,,
+..,2018,,,,,,,,,,,
+..,2019,,,,,,,,,,,
+..,2022,,,,,,,,,,,
+..,2023,,,,,,,,,,,
+..,2024,,,,,,,,,,,
+..,2025,,,,,,,,,,,
+...,2016,,,,,,,,,,,
+...,2017,,,,,,,,,,,
+...,2018,,,,,,,,,,,
+...,2019,,,,,,,,,,,
+...,2022,,,,,,,,,,,
+...,2023,,,,,,,,,,,
+...,2024,,,,,,,,,,,
+...,2025,,,,,,,,,,,
+0,2016,,,,,,,,,,,
+0,2017,,,,,,,,,,,
+0,2018,,,,,,,,,,,
+0,2019,,,,,,,,,,,
+0,2022,,,,,,,,,,,
+0,2023,,,,,,,,,,,
+0,2024,,,,,,,,,,,
+0,2025,,,,,,,,,,,
+"A a Z
+(exceto X)",2016,,,,,,,,,,,
+"A a Z
+(exceto X)",2017,,,,,,,,,,,
+"A a Z
+(exceto X)",2018,,,,,,,,,,,
+"A a Z
+(exceto X)",2019,,,,,,,,,,,
+"A a Z
+(exceto X)",2022,,,,,,,,,,,
+"A a Z
+(exceto X)",2023,,,,,,,,,,,
+"A a Z
+(exceto X)",2024,,,,,,,,,,,
+"A a Z
+(exceto X)",2025,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2016,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2017,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2018,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2019,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2022,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2023,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2024,,,,,,,,,,,
+"A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada.",2025,,,,,,,,,,,
+Acre,2016,,,,33.0,208.0,,,,,,15.865384615384615
+Acre,2017,,,,34.0,210.0,,,,,,16.19047619047619
+Acre,2018,,,,39.0,216.0,,,,,,18.055555555555554
+Acre,2019,,,,45.0,223.0,,,,,,20.179372197309416
+Acre,2022,,,,56.0,244.0,,,,,,22.950819672131146
+Acre,2023,,,,49.0,243.0,,,,,,20.16460905349794
+Acre,2024,,,,53.0,245.0,,,,,,21.63265306122449
+Acre,2025,,,,56.0,247.0,,,,,,22.672064777327936
+Alagoas,2016,,,,91.0,951.0,,,,,,9.568874868559412
+Alagoas,2017,,,,94.0,988.0,,,,,,9.51417004048583
+Alagoas,2018,,,,119.0,998.0,,,,,,11.923847695390782
+Alagoas,2019,,,,133.0,1012.0,,,,,,13.142292490118576
+Alagoas,2022,,,,154.0,1023.0,,,,,,15.053763440860216
+Alagoas,2023,,,,158.0,1033.0,,,,,,15.295256534365926
+Alagoas,2024,,,,177.0,1051.0,,,,,,16.841103710751664
+Alagoas,2025,,,,174.0,1061.0,,,,,,16.39962299717248
+Amapá,2016,,,,37.0,190.0,,,,,,19.473684210526315
+Amapá,2017,,,,42.0,193.0,,,,,,21.761658031088082
+Amapá,2018,,,,42.0,205.0,,,,,,20.48780487804878
+Amapá,2019,,,,42.0,210.0,,,,,,20.0
+Amapá,2022,,,,55.0,222.0,,,,,,24.774774774774773
+Amapá,2023,,,,64.0,233.0,,,,,,27.467811158798284
+Amapá,2024,,,,60.0,233.0,,,,,,25.75107296137339
+Amapá,2025,,,,64.0,238.0,,,,,,26.89075630252101
+Amazonas,2016,,,,141.0,946.0,,,,,,14.904862579281183
+Amazonas,2017,,,,150.0,985.0,,,,,,15.228426395939088
+Amazonas,2018,,,,173.0,1035.0,,,,,,16.714975845410628
+Amazonas,2019,,,,182.0,1031.0,,,,,,17.652764306498543
+Amazonas,2022,,,,211.0,1134.0,,,,,,18.606701940035272
+Amazonas,2023,,,,221.0,1136.0,,,,,,19.454225352112676
+Amazonas,2024,,,,232.0,1175.0,,,,,,19.74468085106383
+Amazonas,2025,,,,255.0,1243.0,,,,,,20.514883346741755
+Bahia,2016,,,,489.0,4472.0,,,,,,10.934704830053667
+Bahia,2017,,,,529.0,4502.0,,,,,,11.750333185251
+Bahia,2018,,,,559.0,4640.0,,,,,,12.047413793103448
+Bahia,2019,,,,609.0,4665.0,,,,,,13.054662379421222
+Bahia,2022,,,,704.0,4935.0,,,,,,14.265450861195541
+Bahia,2023,,,,681.0,5032.0,,,,,,13.533386327503974
+Bahia,2024,,,,794.0,5105.0,,,,,,15.55337904015671
+Bahia,2025,,,,818.0,5191.0,,,,,,15.758042766326334
+Brasil,2016,,,,11025.0,65042.0,,,,,,16.95058577534516
+Brasil,2017,,,,11584.0,66089.0,,,,,,17.527879072160268
+Brasil,2018,,,,12269.0,67105.0,,,,,,18.283287385440726
+Brasil,2019,,,,13162.0,68092.0,,,,,,19.329730364800565
+Brasil,2022,,,,15048.0,70989.0,,,,,,21.19765034019355
+Brasil,2023,,,,15560.0,71967.0,,,,,,21.62102074561952
+Brasil,2024,,,,16407.0,72929.0,,,,,,22.497223326797297
+Brasil,2025,,,,17396.0,73862.0,,,,,,23.55202946034497
+Ceará,2016,,,,304.0,2730.0,,,,,,11.135531135531137
+Ceará,2017,,,,330.0,2788.0,,,,,,11.836441893830703
+Ceará,2018,,,,377.0,2860.0,,,,,,13.18181818181818
+Ceará,2019,,,,403.0,2895.0,,,,,,13.92055267702936
+Ceará,2022,,,,452.0,3078.0,,,,,,14.684860298895385
+Ceará,2023,,,,459.0,3115.0,,,,,,14.735152487961475
+Ceará,2024,,,,481.0,3192.0,,,,,,15.068922305764412
+Ceará,2025,,,,509.0,3248.0,,,,,,15.671182266009854
+Distrito Federal,2016,,,,291.0,916.0,,,,,,31.768558951965066
+Distrito Federal,2017,,,,316.0,940.0,,,,,,33.61702127659574
+Distrito Federal,2018,,,,334.0,965.0,,,,,,34.61139896373057
+Distrito Federal,2019,,,,337.0,985.0,,,,,,34.213197969543145
+Distrito Federal,2022,,,,379.0,990.0,,,,,,38.282828282828284
+Distrito Federal,2023,,,,407.0,1017.0,,,,,,40.0196656833825
+Distrito Federal,2024,,,,411.0,1049.0,,,,,,39.18017159199238
+Distrito Federal,2025,,,,431.0,1049.0,,,,,,41.08674928503336
+Espírito Santo,2016,,,,209.0,1254.0,,,,,,16.666666666666664
+Espírito Santo,2017,,,,235.0,1285.0,,,,,,18.28793774319066
+Espírito Santo,2018,,,,228.0,1277.0,,,,,,17.854346123727485
+Espírito Santo,2019,,,,244.0,1289.0,,,,,,18.929402637703646
+Espírito Santo,2022,,,,285.0,1372.0,,,,,,20.77259475218659
+Espírito Santo,2023,,,,312.0,1395.0,,,,,,22.365591397849464
+Espírito Santo,2024,,,,317.0,1387.0,,,,,,22.855082912761354
+Espírito Santo,2025,,,,352.0,1407.0,,,,,,25.01776830135039
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2016,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2017,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2018,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2019,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2022,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2023,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2024,,,,,,,,,,,
+Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre,2025,,,,,,,,,,,
+Goiás,2016,,,,341.0,2068.0,,,,,,16.48936170212766
+Goiás,2017,,,,396.0,2150.0,,,,,,18.41860465116279
+Goiás,2018,,,,385.0,2177.0,,,,,,17.684887459807076
+Goiás,2019,,,,432.0,2232.0,,,,,,19.35483870967742
+Goiás,2022,,,,491.0,2350.0,,,,,,20.893617021276594
+Goiás,2023,,,,545.0,2395.0,,,,,,22.755741127348646
+Goiás,2024,,,,563.0,2442.0,,,,,,23.054873054873052
+Goiás,2025,,,,620.0,2507.0,,,,,,24.730753889110492
+Legenda,2016,,,,,,,,,,,
+Legenda,2017,,,,,,,,,,,
+Legenda,2018,,,,,,,,,,,
+Legenda,2019,,,,,,,,,,,
+Legenda,2022,,,,,,,,,,,
+Legenda,2023,,,,,,,,,,,
+Legenda,2024,,,,,,,,,,,
+Legenda,2025,,,,,,,,,,,
+Maranhão,2016,,,,163.0,1844.0,,,,,,8.839479392624728
+Maranhão,2017,,,,177.0,1896.0,,,,,,9.335443037974683
+Maranhão,2018,,,,211.0,1939.0,,,,,,10.881897885507993
+Maranhão,2019,,,,230.0,1989.0,,,,,,11.563599798893916
+Maranhão,2022,,,,287.0,2075.0,,,,,,13.831325301204819
+Maranhão,2023,,,,324.0,2119.0,,,,,,15.290231241151487
+Maranhão,2024,,,,327.0,2162.0,,,,,,15.124884366327473
+Maranhão,2025,,,,344.0,2206.0,,,,,,15.59383499546691
+Mato Grosso,2016,,,,172.0,980.0,,,,,,17.551020408163264
+Mato Grosso,2017,,,,184.0,1011.0,,,,,,18.199802176063304
+Mato Grosso,2018,,,,210.0,1055.0,,,,,,19.90521327014218
+Mato Grosso,2019,,,,219.0,1056.0,,,,,,20.738636363636363
+Mato Grosso,2022,,,,239.0,1105.0,,,,,,21.6289592760181
+Mato Grosso,2023,,,,265.0,1145.0,,,,,,23.144104803493452
+Mato Grosso,2024,,,,297.0,1195.0,,,,,,24.85355648535565
+Mato Grosso,2025,,,,303.0,1177.0,,,,,,25.74341546304163
+Mato Grosso do Sul,2016,,,,135.0,816.0,,,,,,16.544117647058822
+Mato Grosso do Sul,2017,,,,158.0,832.0,,,,,,18.990384615384613
+Mato Grosso do Sul,2018,,,,166.0,825.0,,,,,,20.12121212121212
+Mato Grosso do Sul,2019,,,,184.0,843.0,,,,,,21.826809015421116
+Mato Grosso do Sul,2022,,,,218.0,883.0,,,,,,24.688561721404305
+Mato Grosso do Sul,2023,,,,246.0,921.0,,,,,,26.710097719869708
+Mato Grosso do Sul,2024,,,,244.0,932.0,,,,,,26.180257510729614
+Mato Grosso do Sul,2025,,,,256.0,947.0,,,,,,27.03273495248152
+Minas Gerais,2016,,,,1153.0,6785.0,,,,,,16.9933677229182
+Minas Gerais,2017,,,,1079.0,6745.0,,,,,,15.997034840622684
+Minas Gerais,2018,,,,1249.0,6913.0,,,,,,18.06740922898886
+Minas Gerais,2019,,,,1252.0,6990.0,,,,,,17.911301859799714
+Minas Gerais,2022,,,,1415.0,7171.0,,,,,,19.732254915632407
+Minas Gerais,2023,,,,1516.0,7282.0,,,,,,20.818456468003298
+Minas Gerais,2024,,,,1577.0,7305.0,,,,,,21.587953456536617
+Minas Gerais,2025,,,,1681.0,7399.0,,,,,,22.71928639005271
+Notas,2016,,,,,,,,,,,
+Notas,2017,,,,,,,,,,,
+Notas,2018,,,,,,,,,,,
+Notas,2019,,,,,,,,,,,
+Notas,2022,,,,,,,,,,,
+Notas,2023,,,,,,,,,,,
+Notas,2024,,,,,,,,,,,
+Notas,2025,,,,,,,,,,,
+Paraná,2016,,,,690.0,3592.0,,,,,,19.20935412026726
+Paraná,2017,,,,707.0,3684.0,,,,,,19.191096634093377
+Paraná,2018,,,,729.0,3690.0,,,,,,19.75609756097561
+Paraná,2019,,,,783.0,3762.0,,,,,,20.813397129186605
+Paraná,2022,,,,881.0,3904.0,,,,,,22.56659836065574
+Paraná,2023,,,,899.0,3985.0,,,,,,22.55959849435383
+Paraná,2024,,,,932.0,4030.0,,,,,,23.126550868486355
+Paraná,2025,,,,1064.0,4154.0,,,,,,25.61386615310544
+Paraíba,2016,,,,163.0,1234.0,,,,,,13.209076175040519
+Paraíba,2017,,,,191.0,1260.0,,,,,,15.158730158730158
+Paraíba,2018,,,,186.0,1287.0,,,,,,14.452214452214452
+Paraíba,2019,,,,207.0,1282.0,,,,,,16.146645865834632
+Paraíba,2022,,,,197.0,1332.0,,,,,,14.78978978978979
+Paraíba,2023,,,,212.0,1360.0,,,,,,15.588235294117647
+Paraíba,2024,,,,250.0,1387.0,,,,,,18.02451333813987
+Paraíba,2025,,,,249.0,1386.0,,,,,,17.965367965367964
+Pará,2016,,,,231.0,2190.0,,,,,,10.547945205479452
+Pará,2017,,,,257.0,2262.0,,,,,,11.361626878868258
+Pará,2018,,,,296.0,2284.0,,,,,,12.95971978984238
+Pará,2019,,,,302.0,2331.0,,,,,,12.955812955812956
+Pará,2022,,,,383.0,2456.0,,,,,,15.594462540716613
+Pará,2023,,,,408.0,2545.0,,,,,,16.031434184675835
+Pará,2024,,,,449.0,2598.0,,,,,,17.282525019245572
+Pará,2025,,,,434.0,2605.0,,,,,,16.660268714011515
+Pernambuco,2016,,,,415.0,2976.0,,,,,,13.944892473118278
+Pernambuco,2017,,,,413.0,3006.0,,,,,,13.739188290086494
+Pernambuco,2018,,,,471.0,3045.0,,,,,,15.467980295566502
+Pernambuco,2019,,,,488.0,3065.0,,,,,,15.921696574225122
+Pernambuco,2022,,,,462.0,3196.0,,,,,,14.455569461827283
+Pernambuco,2023,,,,510.0,3230.0,,,,,,15.789473684210526
+Pernambuco,2024,,,,543.0,3280.0,,,,,,16.554878048780488
+Pernambuco,2025,,,,601.0,3353.0,,,,,,17.92424694303609
+Piauí,2016,,,,130.0,1016.0,,,,,,12.795275590551181
+Piauí,2017,,,,147.0,1023.0,,,,,,14.369501466275661
+Piauí,2018,,,,148.0,1024.0,,,,,,14.453125
+Piauí,2019,,,,154.0,1025.0,,,,,,15.024390243902438
+Piauí,2022,,,,198.0,1080.0,,,,,,18.333333333333332
+Piauí,2023,,,,205.0,1093.0,,,,,,18.755718206770357
+Piauí,2024,,,,208.0,1116.0,,,,,,18.63799283154122
+Piauí,2025,,,,214.0,1128.0,,,,,,18.97163120567376
+Rio Grande do Norte,2016,,,,152.0,1064.0,,,,,,14.285714285714285
+Rio Grande do Norte,2017,,,,149.0,1082.0,,,,,,13.77079482439926
+Rio Grande do Norte,2018,,,,173.0,1073.0,,,,,,16.123019571295433
+Rio Grande do Norte,2019,,,,189.0,1112.0,,,,,,16.996402877697843
+Rio Grande do Norte,2022,,,,197.0,1156.0,,,,,,17.041522491349482
+Rio Grande do Norte,2023,,,,198.0,1155.0,,,,,,17.142857142857142
+Rio Grande do Norte,2024,,,,227.0,1187.0,,,,,,19.12384161752317
+Rio Grande do Norte,2025,,,,242.0,1227.0,,,,,,19.72290138549307
+Rio Grande do Sul,2016,,,,687.0,3777.0,,,,,,18.1890389197776
+Rio Grande do Sul,2017,,,,703.0,3848.0,,,,,,18.269230769230766
+Rio Grande do Sul,2018,,,,711.0,3872.0,,,,,,18.362603305785125
+Rio Grande do Sul,2019,,,,735.0,3919.0,,,,,,18.75478438377137
+Rio Grande do Sul,2022,,,,899.0,4027.0,,,,,,22.324310901415444
+Rio Grande do Sul,2023,,,,842.0,3996.0,,,,,,21.07107107107107
+Rio Grande do Sul,2024,,,,938.0,4040.0,,,,,,23.21782178217822
+Rio Grande do Sul,2025,,,,983.0,4079.0,,,,,,24.099043883304734
+Rio de Janeiro,2016,,,,1089.0,6008.0,,,,,,18.12583222370173
+Rio de Janeiro,2017,,,,1127.0,6055.0,,,,,,18.61271676300578
+Rio de Janeiro,2018,,,,1285.0,6194.0,,,,,,20.7458831126897
+Rio de Janeiro,2019,,,,1408.0,6303.0,,,,,,22.338568935427574
+Rio de Janeiro,2022,,,,1672.0,6482.0,,,,,,25.794507867941995
+Rio de Janeiro,2023,,,,1691.0,6462.0,,,,,,26.168368926029096
+Rio de Janeiro,2024,,,,1726.0,6568.0,,,,,,26.278928136419
+Rio de Janeiro,2025,,,,1832.0,6510.0,,,,,,28.141321044546853
+Rondônia,2016,,,,62.0,462.0,,,,,,13.41991341991342
+Rondônia,2017,,,,66.0,484.0,,,,,,13.636363636363635
+Rondônia,2018,,,,73.0,487.0,,,,,,14.989733059548255
+Rondônia,2019,,,,75.0,495.0,,,,,,15.151515151515152
+Rondônia,2022,,,,113.0,545.0,,,,,,20.733944954128443
+Rondônia,2023,,,,107.0,559.0,,,,,,19.141323792486585
+Rondônia,2024,,,,115.0,568.0,,,,,,20.246478873239436
+Rondônia,2025,,,,114.0,566.0,,,,,,20.141342756183743
+Roraima,2016,,,,28.0,123.0,,,,,,22.76422764227642
+Roraima,2017,,,,29.0,129.0,,,,,,22.48062015503876
+Roraima,2018,,,,34.0,140.0,,,,,,24.285714285714285
+Roraima,2019,,,,34.0,136.0,,,,,,25.0
+Roraima,2022,,,,35.0,165.0,,,,,,21.21212121212121
+Roraima,2023,,,,40.0,169.0,,,,,,23.668639053254438
+Roraima,2024,,,,45.0,173.0,,,,,,26.011560693641616
+Roraima,2025,,,,52.0,186.0,,,,,,27.956989247311824
+Santa Catarina,2016,,,,392.0,2297.0,,,,,,17.065737919024816
+Santa Catarina,2017,,,,455.0,2339.0,,,,,,19.452757588713126
+Santa Catarina,2018,,,,488.0,2416.0,,,,,,20.198675496688743
+Santa Catarina,2019,,,,511.0,2496.0,,,,,,20.47275641025641
+Santa Catarina,2022,,,,602.0,2598.0,,,,,,23.17167051578137
+Santa Catarina,2023,,,,627.0,2662.0,,,,,,23.553719008264462
+Santa Catarina,2024,,,,661.0,2713.0,,,,,,24.364172502764468
+Santa Catarina,2025,,,,769.0,2822.0,,,,,,27.250177179305457
+Sergipe,2016,,,,90.0,684.0,,,,,,13.157894736842104
+Sergipe,2017,,,,89.0,687.0,,,,,,12.954876273653564
+Sergipe,2018,,,,97.0,691.0,,,,,,14.037626628075254
+Sergipe,2019,,,,103.0,706.0,,,,,,14.589235127478753
+Sergipe,2022,,,,108.0,723.0,,,,,,14.937759336099585
+Sergipe,2023,,,,135.0,746.0,,,,,,18.096514745308312
+Sergipe,2024,,,,132.0,760.0,,,,,,17.36842105263158
+Sergipe,2025,,,,136.0,793.0,,,,,,17.150063051702396
+São Paulo,2016,,,,3272.0,15054.0,,,,,,21.735087020061115
+São Paulo,2017,,,,3449.0,15277.0,,,,,,22.57642207239641
+São Paulo,2018,,,,3397.0,15363.0,,,,,,22.111566751285554
+São Paulo,2019,,,,3779.0,15596.0,,,,,,24.23057194152347
+São Paulo,2022,,,,4241.0,16283.0,,,,,,26.045568998341828
+São Paulo,2023,,,,4326.0,16473.0,,,,,,26.26115461664542
+São Paulo,2024,,,,4532.0,16558.0,,,,,,27.37045536900592
+São Paulo,2025,,,,4721.0,16659.0,,,,,,28.33903595654001
+Símbolo,2016,,,,,,,,,,,
+Símbolo,2017,,,,,,,,,,,
+Símbolo,2018,,,,,,,,,,,
+Símbolo,2019,,,,,,,,,,,
+Símbolo,2022,,,,,,,,,,,
+Símbolo,2023,,,,,,,,,,,
+Símbolo,2024,,,,,,,,,,,
+Símbolo,2025,,,,,,,,,,,
+Tocantins,2016,,,,65.0,404.0,,,,,,16.08910891089109
+Tocantins,2017,,,,79.0,425.0,,,,,,18.58823529411765
+Tocantins,2018,,,,88.0,435.0,,,,,,20.229885057471265
+Tocantins,2019,,,,85.0,443.0,,,,,,19.187358916478555
+Tocantins,2022,,,,115.0,459.0,,,,,,25.054466230936818
+Tocantins,2023,,,,113.0,464.0,,,,,,24.353448275862068
+Tocantins,2024,,,,117.0,476.0,,,,,,24.579831932773107
+Tocantins,2025,,,,124.0,475.0,,,,,,26.105263157894736
+X,2016,,,,,,,,,,,
+X,2017,,,,,,,,,,,
+X,2018,,,,,,,,,,,
+X,2019,,,,,,,,,,,
+X,2022,,,,,,,,,,,
+X,2023,,,,,,,,,,,
+X,2024,,,,,,,,,,,
+X,2025,,,,,,,,,,,
